@@ -1,2 +1,2 @@
 # calculator-app-py
-Calculator app in python3
+Calculator app in python
